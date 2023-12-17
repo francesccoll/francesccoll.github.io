@@ -1,15 +1,15 @@
 ---
 title: "SpolPred: rapid and accurate prediction of Mycobacterium tuberculosis spoligotypes from short genomic sequences"
 collection: publications
-permalink: /publication/2012-11-15-paper-title-number-1
+permalink: /publication/2012-11-15-spolpred
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2012-11-15
+venue: 'Bioinformatics'
+paperurl: 'https://academic.oup.com/bioinformatics/article/28/22/2991/240583?login=false'
+citation: 'Coll, Francesc. (2012). &quot;SpolPred: rapid and accurate prediction of Mycobacterium tuberculosis spoligotypes from short genomic sequences.&quot; <i>Bioinformatics</i>. 28(22).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+<i>In silico<i> genotyping approaches are required to bridge the gap between experimental and high-throughput sequencing, leading to the development of <i>SpolPred<i>, a software to predict the spoligotype from <i>Mycobacterium tuberculosis<i> raw sequence reads.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: <b>Coll F<b>, Mallard K, Preston MD, <i>et al.<i> SpolPred: rapid and accurate prediction of <i>Mycobacterium tuberculosis<i> spoligotypes from short genomic sequences. <i>Bioinformatics<i>. 2012;28(22):2991-2993. doi:10.1093/bioinformatics/bts544
