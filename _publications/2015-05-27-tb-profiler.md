@@ -1,16 +1,16 @@
 ---
-title: "SpolPred: rapid and accurate prediction of Mycobacterium tuberculosis spoligotypes from short genomic sequences"
+title: "Rapid determination of anti-tuberculosis drug resistance from whole-genome sequences"
 collection: publications
-permalink: /publication/2012-11-15-spolpred
-excerpt: '<i>In silico</i> genotyping approaches are required to bridge the gap between experimental and high-throughput sequencing, leading to the development of <i>SpolPred</i>, a software tool to predict the spoligotype from <i>Mycobacterium tuberculosis</i> raw sequence reads.'
-date: 2012-11-15
-venue: 'Bioinformatics'
-paperurl: 'https://academic.oup.com/bioinformatics/article/28/22/2991/240583?login=false'
-citation: '<b>Coll F</b>, Mallard K, Preston MD, <i>et al.</i> SpolPred: rapid and accurate prediction of <i>Mycobacterium tuberculosis</i> spoligotypes from short genomic sequences. <i>Bioinformatics</i>. 2012;28(22):2991-2993. doi:10.1093/bioinformatics/bts544'
+permalink: /publication/2015-05-27-tb-profiler.md
+excerpt: 'The goal of this study was to assess the diagnostic accuracy of genomic sequencing to predict antibiotic resistance in <i>Mycobacterium tuberculosis</i>. We developed a software tool called 'TB-Profiler' to determine antibiotic resistance directly from raw genomic sequences, which has been widely adopted and used in the field'
+date: 2015-05-27
+venue: 'Genome Medicine'
+paperurl: 'https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-015-0164-0'
+citation: '<b>Coll F</b>, McNerney R, Preston MD, <i>et al.</i> Rapid determination of anti-tuberculosis drug resistance from whole-genome sequences. <i>Genome Medicine</i>. 2015;7(1):51. doi:10.1186/s13073-015-0164-0'
 ---
-<i>In silico</i> genotyping approaches are required to bridge the gap between experimental and high-throughput sequencing, leading to the development of <i>SpolPred</i>, a software tool to predict the spoligotype from <i>Mycobacterium tuberculosis</i> raw sequence reads.
+The goal of this study was to assess the diagnostic accuracy of genomic sequencing to predict antibiotic resistance in <i>Mycobacterium tuberculosis</i>. We developed a software tool called 'TB-Profiler' to determine antibiotic resistance directly from raw genomic sequences, which has been widely adopted and used in the field
 
-Recommended citation: <b>Coll F</b>, Mallard K, Preston MD, <i>et al.</i> SpolPred: rapid and accurate prediction of <i>Mycobacterium tuberculosis</i> spoligotypes from short genomic sequences. <i>Bioinformatics</i>. 2012;28(22):2991-2993. doi:10.1093/bioinformatics/bts544
+Recommended citation: <b>Coll F</b>, McNerney R, Preston MD, <i>et al.</i> Rapid determination of anti-tuberculosis drug resistance from whole-genome sequences. <i>Genome Medicine</i>. 2015;7(1):51. doi:10.1186/s13073-015-0164-0
 
-[Download paper here](http://francesccoll.github.io/files/bioinformatics_28_22_2991.pdf)
+[Download paper here](http://francesccoll.github.io/files/s13073-015-0164-0.pdf)
 
