@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number 1"
+title: "SpolPred: rapid and accurate prediction of Mycobacterium tuberculosis spoligotypes from short genomic sequences"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2012-11-15-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
