@@ -2,14 +2,14 @@
 title: "SpolPred: rapid and accurate prediction of Mycobacterium tuberculosis spoligotypes from short genomic sequences"
 collection: publications
 permalink: /publication/2012-11-15-spolpred
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: '<i>In silico</i> genotyping approaches are required to bridge the gap between experimental and high-throughput sequencing, leading to the development of <i>SpolPred</i>, a software tool to predict the spoligotype from <i>Mycobacterium tuberculosis</i> raw sequence reads.'
 date: 2012-11-15
 venue: 'Bioinformatics'
 paperurl: 'https://academic.oup.com/bioinformatics/article/28/22/2991/240583?login=false'
 citation: 'Coll, Francesc. (2012). &quot;SpolPred: rapid and accurate prediction of Mycobacterium tuberculosis spoligotypes from short genomic sequences.&quot; <i>Bioinformatics</i>. 28(22).'
 ---
-<i>In silico<i> genotyping approaches are required to bridge the gap between experimental and high-throughput sequencing, leading to the development of <i>SpolPred<i>, a software to predict the spoligotype from <i>Mycobacterium tuberculosis<i> raw sequence reads.
+<i>In silico</i> genotyping approaches are required to bridge the gap between experimental and high-throughput sequencing, leading to the development of <i>SpolPred</i>, a software tool to predict the spoligotype from <i>Mycobacterium tuberculosis</i> raw sequence reads.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://francesccoll.github.io/files/bioinformatics_28_22_2991.pdf)
 
-Recommended citation: <b>Coll F<b>, Mallard K, Preston MD, <i>et al.<i> SpolPred: rapid and accurate prediction of <i>Mycobacterium tuberculosis<i> spoligotypes from short genomic sequences. <i>Bioinformatics<i>. 2012;28(22):2991-2993. doi:10.1093/bioinformatics/bts544
+Recommended citation: <b>Coll F</b>, Mallard K, Preston MD, <i>et al.</i> SpolPred: rapid and accurate prediction of <i>Mycobacterium tuberculosis</i> spoligotypes from short genomic sequences. <i>Bioinformatics<i/>. 2012;28(22):2991-2993. doi:10.1093/bioinformatics/bts544
