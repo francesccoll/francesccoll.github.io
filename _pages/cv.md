@@ -17,9 +17,10 @@ Education
 
 Work experience
 ======
+* 04/2024-onwards	Tenure-track group leader (Científico titular), Institute of Biomedicine of Valencia - CSIC, Valencia, Spain
 * 04/2023-03/2024	Senior Staff Scientist, Wellcome Sanger Institute, Cambridge, UK
-* 04/2021-03/2023	Assistant Professor, LSHTM, London, UK
-* 07/2016-03/2021	Research Fellow (postdoc), LSHTM, London, UK
+* 04/2021-03/2023	Assistant Professor, London School of Hygiene & Tropical Medicine, London, UK
+* 07/2016-03/2021	Research Fellow (postdoc), London School of Hygiene & Tropical Medicine, London, UK
 * 06/2018-08/2018	Industrial secondment, Next Gen Diagnostics S.L., Cambridge, UK
 * 10/2014-06/2016	Research Associate (postdoc), University of Cambridge, Cambridge, UK
 * 12/2009-06/2010	Student internship, Polytechnic University of Valencia, Valencia, Spain
