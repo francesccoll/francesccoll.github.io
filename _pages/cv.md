@@ -11,30 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Microbial Genomics, London School of Hygiene & Tropical Medicine (UK), 2014
+* M.Sc. in Applied Bioinformatics, Cranfield University (UK), 2011
+* B.Sc. and M.Sc. (Licenciatura) in Biotechnology, Polytechnic University of Valencia (Spain), 2010
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 04/2023-03/2024	Senior Staff Scientist, Wellcome Sanger Institute, Cambridge, UK
+* 04/2021-03/2023	Assistant Professor, LSHTM, London, UK
+* 07/2016-03/2021	Research Fellow (postdoc), LSHTM, London, UK
+* 06/2018-08/2018	Industrial secondment, Next Gen Diagnostics S.L., Cambridge, UK
+* 10/2014-06/2016	Research Associate (postdoc), University of Cambridge, Cambridge, UK
+* 12/2009-06/2010	Student internship, Polytechnic University of Valencia, Valencia, Spain
+* 07/2009-08/2009	Industrial secondment, Valentia Biopharma S.L., Valencia, Spain
 
 Publications
 ======
