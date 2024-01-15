@@ -46,4 +46,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Outside academia, I undertook a paid industrial secondment in a diagnostics start-up from June to September 2018 (https://www.nextgen-dx.com/).
+* I was also the treasurer and member of the board of directors in the Spanish Society of Researcher in the United Kingdom (SRUK) from 2016 to 2018.
+* I have reviewed 41 scientific articles for 19 different journals, and 6 grant proposals for the UK Medical Research Council (MRC).
